@@ -21,5 +21,5 @@ By doing the above steps, the program will finish in about 600 episodes dependin
 
 ### How my solution works
 
-I used a similar configuration to the deep q network that was used in a previous shallenge. The parameters I changed were as follows: the state space - 37 length array, the action space - 4 (up, down, left, right), and the network nodes/layers - 64 nodes and 2 hidden layers.
+I used a similar configuration to the deep q network that was used in a previous challenge. The parameters I changed were as follows: the state space - 37 length array, the action space - 4 (up, down, left, right), and the network nodes/layers - 64 nodes and 2 hidden layers.
 
